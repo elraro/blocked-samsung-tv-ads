@@ -1,9 +1,20 @@
-config.samsungads.com
-gpm.samsungqbe.com
-log-config.samsungacr.com
-samsung.com
-samsungacr.com
-samsungads.com
-samsungcloudsolution.com
-samsungcloudsolution.net
-samsungotn.net
+127.0.0.1 config.samsungads.com
+127.0.0.1 gpm.samsungqbe.com
+127.0.0.1 log-config.samsungacr.com
+127.0.0.1 samsung.com
+127.0.0.1 samsungacr.com
+127.0.0.1 samsungads.com
+127.0.0.1 samsungcloudsolution.com
+127.0.0.1 samsungcloudsolution.net
+127.0.0.1 samsungotn.net
+127.0.0.1 insights.samsung.com
+127.0.0.1 nmetrics.samsung.com
+127.0.0.1 samsungacr.com
+127.0.0.1 log-config.samsungacr.com
+127.0.0.1 log-ingestion.samsungacr.com
+127.0.0.1 log-ingestion-eu.samsungacr.com
+127.0.0.1 ad.samsungadhub.com
+127.0.0.1 samsungads.com
+127.0.0.1 ads.samsungads.com
+127.0.0.1 config.samsungads.com
+127.0.0.1 events.samsungads.com
