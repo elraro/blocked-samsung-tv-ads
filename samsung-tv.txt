@@ -18,3 +18,8 @@
 127.0.0.1 ads.samsungads.com
 127.0.0.1 config.samsungads.com
 127.0.0.1 events.samsungads.com
+127.0.0.1 bpu.samsungelectronics.com
+127.0.0.1 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+127.0.0.1 osb-v1-alb.samsungqbe.com
+127.0.0.1 lcprd1.samsungcloudsolution.net
+127.0.0.1 sas.samsungcloudsolution.com
